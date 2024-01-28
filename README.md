@@ -1,5 +1,6 @@
 # 📊︰Dashboard
 - A simple and responsive dashboard design was developed using the **[AsmrProg](https://www.youtube.com/watch?v=YJTKlAvbDo4)** channel tutorial
+- [Click here](https://ikki-jk.github.io/Dashboard/) to view the panel.
 
 
 ## How to use?
